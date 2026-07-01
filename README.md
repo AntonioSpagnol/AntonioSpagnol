@@ -19,6 +19,6 @@ My current development methodology revolves around optimizing the lifecycle from
 * **System Documentation**: Extensive use of Obsidian for deep technical documentation, pipeline mapping, and organizing complex development frameworks.
 
 ## 💻 Core Tech Stack
-* **Frameworks**: Next.js, Flutter
-* **Backend & Infrastructure**: Supabase
+* **Frameworks**: Next.js, Flutter, Tauri
+* **Backend & Infrastructure**: AWS, Vercel, Supabase
 * **Target Disciplines**: AI Engineering, DevOps, Cloud Computing
